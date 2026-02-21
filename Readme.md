@@ -1,6 +1,6 @@
 React's rendering happens in two big phases:
 
-```
+
 Your JSX
    ↓
 [RENDER PHASE] — React figures out what changed
